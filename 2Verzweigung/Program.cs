@@ -47,5 +47,5 @@ switch (auswahl)
         Console.WriteLine(Kelvin2 + "Kelvin in Fahrenheit ergibt: " + ((Kelvin2 - 273.15) * 1.8 + 32));
         break;
 
-}
+} 
 Console.ReadKey();
