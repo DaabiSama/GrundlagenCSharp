@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1HelloWorld", "1HelloWorld\1HelloWorld.csproj", "{C31EEFA9-62AE-4447-BDD7-5B8C32CD65D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1HelloWorld", "1HelloWorld\1HelloWorld.csproj", "{C31EEFA9-62AE-4447-BDD7-5B8C32CD65D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2Verzweigung", "2Verzweigung\2Verzweigung.csproj", "{572BC18E-C919-42DF-A32C-2656C1804E86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2Verzweigung", "2Verzweigung\2Verzweigung.csproj", "{572BC18E-C919-42DF-A32C-2656C1804E86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgaben 2 Klausur vorbereitung", "Aufgaben 2 Klausur vorbereitung\Aufgaben 2 Klausur vorbereitung.csproj", "{188FD2C7-3084-4D0A-AE75-B59DBFB8D295}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{572BC18E-C919-42DF-A32C-2656C1804E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{572BC18E-C919-42DF-A32C-2656C1804E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{572BC18E-C919-42DF-A32C-2656C1804E86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{188FD2C7-3084-4D0A-AE75-B59DBFB8D295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{188FD2C7-3084-4D0A-AE75-B59DBFB8D295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{188FD2C7-3084-4D0A-AE75-B59DBFB8D295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{188FD2C7-3084-4D0A-AE75-B59DBFB8D295}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
